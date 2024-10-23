@@ -1,4 +1,4 @@
 js/script.js
-main
-game
-utils
+main.js
+game.js
+utils.js
